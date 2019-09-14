@@ -1,0 +1,8 @@
+18:08:34.702 [main] INFO  SystemBolaget.Login - Successfully validated the URL of home page
+18:08:40.715 [main] INFO  SystemBolaget.Login - The first product of results is selected
+18:08:40.762 [main] INFO  SystemBolaget.Login - The description of product  received
+18:08:40.762 [main] INFO  SystemBolaget.Login - The product contains expected description
+18:08:49.674 [main] INFO  SystemBolaget.Login - Driver is initialized. Navigated to Home page. ClassName- Login
+18:08:49.689 [main] INFO  SystemBolaget.Login - Successfully validated the Title of home page
+18:08:49.703 [main] INFO  SystemBolaget.Login - Successfully validated the URL of home page
+18:08:55.085 [main] INFO  SystemBolaget.Login - Driver closed the browser. ClassName- Login

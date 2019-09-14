@@ -1,0 +1,11 @@
+17:59:16.024 [main] INFO  SystemBolaget.Login - The product contains expected description
+18:08:22.020 [main] INFO  SystemBolaget.Login - Driver is initialized. Navigated to Home page. ClassName- StepDefinition
+18:08:22.095 [main] INFO  SystemBolaget.Login - Button is clicled
+18:08:22.105 [main] INFO  SystemBolaget.Login - Successfully validated the Title of home page
+18:08:22.114 [main] INFO  SystemBolaget.Login - Successfully validated the URL of home page
+18:08:26.841 [main] INFO  SystemBolaget.Login - The first product of results is selected
+18:08:26.888 [main] INFO  SystemBolaget.Login - The description of product  received
+18:08:26.903 [main] INFO  SystemBolaget.Login - The product contains expected description
+18:08:34.605 [main] INFO  SystemBolaget.Login - Driver is initialized. Navigated to Home page. ClassName- StepDefinition
+18:08:34.687 [main] INFO  SystemBolaget.Login - Button is clicled
+18:08:34.695 [main] INFO  SystemBolaget.Login - Successfully validated the Title of home page

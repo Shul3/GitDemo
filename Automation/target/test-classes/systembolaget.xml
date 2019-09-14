@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium" parallel="false">
+	<listeners>
+		<listener class-name="Framework.Listeners"></listener>
+		<listener class-name="Framework.ExtentReporterNG"/>
+	</listeners>
+	
+	<test name="Systembolaget">
+		<classes>
+			<class name="SystemBolaget.Login" />
+			<class name="Cucumber.TestRunner" />
+		</classes>
+	</test>
+</suite> 
+
+
+
