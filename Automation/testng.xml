@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium" parallel="false" thread-count="3">
+	<!-- <parameter name="URL" value="http://127.0.0.1:4723/wd/hub"></parameter> -->
+	<listeners>
+		<listener class-name="ReusableClass.Listeners"></listener>
+	</listeners>
+
+	<test name="Norwegian">
+		<classes>
+			<class name="Norwegian.BookResa" /> 
+			<class name="Norwegian.CheckLinks" />
+		</classes>
+	</test>
+	<test name="Systembolaget">
+		<classes>
+			<class name="SystemBolaget.Login" />
+		</classes>
+	</test>
+	<test name="Appium Systembolaget">
+	<!--  
+		<parameter name="AppeiumURL"
+			value="http://127.0.0.1:4723/wd/hub"></parameter>
+	-->		
+		<classes>
+			<class name="Appium.Demo">
+				<methods>
+					<!-- <exclude name="set*"></exclude> -->
+					<include name="logIn"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 
+
+
+
