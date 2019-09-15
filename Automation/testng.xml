@@ -11,11 +11,15 @@
 		<classes>
 			<class name="Norwegian.BookResa" /> 
 			<class name="Norwegian.CheckLinks" />
+			
+			
 		</classes>
 	</test>
 	<test name="Systembolaget">
 		<classes>
 			<class name="SystemBolaget.Login" />
+			
+			
 		</classes>
 	</test>
 	<test name="Appium Systembolaget">
