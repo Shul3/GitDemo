@@ -11,7 +11,7 @@
 
 		<maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
 		<io-appium-java-client.version>7.1.0</io-appium-java-client.version>
-		<log4j.version>2.12.1</log4j.version>
+		<log4j.version>2.13.3</log4j.version>
 		<rest-assured.version>4.0.0</rest-assured.version>
 		<extentreports.version>4.0.9</extentreports.version>
 		<poi-ooxml.version>3.17</poi-ooxml.version>
