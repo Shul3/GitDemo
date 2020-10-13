@@ -20,7 +20,7 @@
 		<io.appium.version>7.0.0</io.appium.version>
 		<mysql-connector-java>8.0.16</mysql-connector-java>
 		<info.cukes-cucumber>1.2.5</info.cukes-cucumber>
-		<junit>4.12</junit>
+		<junit>4.13.1</junit>
 		
 		
 	</properties>
